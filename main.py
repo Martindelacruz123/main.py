@@ -1,1 +1,2 @@
-print ("hola mundo")
+saludo=("hola mundo")
+print (saludo)
